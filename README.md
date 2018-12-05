@@ -1,4 +1,4 @@
-# Applied-Text-Mining
+# Applied Text Mining
 
 Text Cleaning
 
